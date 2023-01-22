@@ -190,7 +190,7 @@ court.html
 ## Output:
 
 ## Map
-![image](https://user-images.githubusercontent.com/119561118/213921991-a62e57ba-f620-4f54-b4a2-37683114d467.png)
+![image](https://user-images.githubusercontent.com/119561118/213922306-6ec31e9e-b9f0-40ed-8ddb-77180727701a.png)
 
 ## Park
 ![image](https://user-images.githubusercontent.com/119561118/213922035-bfdd2301-1bd2-4717-906f-30dd05696ce0.png)
