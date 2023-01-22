@@ -190,18 +190,25 @@ court.html
 ## Output:
 
 ## Map
-![OUTPUT](./map.png)
+![image](https://user-images.githubusercontent.com/119561118/213921991-a62e57ba-f620-4f54-b4a2-37683114d467.png)
+
 ## Park
-![OUTPUT](./park.png)
+![image](https://user-images.githubusercontent.com/119561118/213922035-bfdd2301-1bd2-4717-906f-30dd05696ce0.png)
+
 ## Theatre
-![OUTPUT](./theatre.png)
+![image](https://user-images.githubusercontent.com/119561118/213922086-73593f5d-d347-4daf-8ebc-a7350013bd68.png)
+
 ## Hospital
-![OUTPUT](./hospital.png)
+![image](https://user-images.githubusercontent.com/119561118/213922109-04adc2ad-9316-45db-87f5-3589270f263b.png)
+
 ## Railway
-![OUTPUT](./railway.png)
+![image](https://user-images.githubusercontent.com/119561118/213922146-de69b461-bdac-483d-bd40-3375d9aa19d3.png)
+
 ## Court
-![OUTPUT](./court.png)
+![image](https://user-images.githubusercontent.com/119561118/213922162-acf017ed-0f9d-4dc4-bc46-c9f6de917bcb.png)
+
 ## HTML VALIDATOR
-![OUTPUT](./valid.png)
+![image](https://user-images.githubusercontent.com/119561118/213922203-d2fda353-1e2d-4660-a318-8c7054dd78af.png)
+
 ## Result:
 The program executed successfully.
